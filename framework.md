@@ -32,7 +32,7 @@ Not all variables are equally important. Your energy and the potential for a spa
 
 ### Equation
 
-$$ Score (\%) = \frac{(E \times W_E) + (T \times W_T) + (X \times W_X) + (P \times W_P)}{5} $$
+$$ Score = \frac{(E \times W_E) + (T \times W_T) + (X \times W_X) + (P \times W_P)}{5} $$
 
 *Note: We divide by 5 because the maximum value for any variable is 5, normalizing the score to a 100% scale.*
 
