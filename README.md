@@ -31,3 +31,5 @@ If an item scores a 4 in Energy, 5 in Spark, 3 in Experience, and 2 in Time:
 
 
 <img width="1920" height="1080" alt="wmt" src="https://github.com/user-attachments/assets/07dca410-e7a2-4877-8252-f0376b2d72d5" />
+
+Disclaimer: This framework collapses when feelings overpowering everything :) 
